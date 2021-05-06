@@ -26,7 +26,7 @@ To use this application, be sure you have all the required extensions installed.
 **THERE IS NO DEPLOYED LINK FOR THIS APPLICATION**
 
 
-The intended purpose of this application is for you to clone if locally and generate then deploy your own version of the portfolio page.
+The intended purpose of this application is for you to clone it locally and generate then deploy your own version of the portfolio page.
 
 
 ## Resources
