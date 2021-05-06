@@ -31,5 +31,7 @@ The intended purpose of this application is for you to clone if locally and gene
 
 ## Resources
 [node.js](https://nodejs.org/en/)
+
 [inquirer npm](https://www.npmjs.com/package/inquirer)
+
 [file-system npm](https://www.npmjs.com/package/file-system)
